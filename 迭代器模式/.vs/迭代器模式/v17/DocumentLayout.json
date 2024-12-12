@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|solutionrelative:\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|solutionrelative:\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|solutionrelative:\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|solutionrelative:\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5CC190C-25EC-4DD5-9C14-FB774DCE0209}|\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.vcxproj|solutionrelative:\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iterator.cpp",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.cpp",
+              "RelativeDocumentMoniker": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.cpp",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.cpp",
+              "RelativeToolTip": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T14:05:53.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Iterator.h",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.h",
+              "RelativeDocumentMoniker": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.h",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.h",
+              "RelativeToolTip": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\Iterator.h",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T14:05:36.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyList.cpp",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.cpp",
+              "RelativeDocumentMoniker": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.cpp",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.cpp",
+              "RelativeToolTip": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:31:28.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyList.h",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.h",
+              "RelativeDocumentMoniker": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.h",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.h",
+              "RelativeToolTip": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\MyList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T12:31:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u8FED\u4EE3\u5668\u6A21\u5F0F.cpp",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.cpp",
+              "RelativeDocumentMoniker": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.cpp",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.cpp",
+              "RelativeToolTip": "\u8FED\u4EE3\u5668\u6A21\u5F0F\\\u8FED\u4EE3\u5668\u6A21\u5F0F.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:29:06.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
