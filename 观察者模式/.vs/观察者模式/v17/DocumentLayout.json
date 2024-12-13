@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D96BF96-F26C-4E54-966D-EC0BFDB8106C}|\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D96BF96-F26C-4E54-966D-EC0BFDB8106C}|\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.vcxproj|solutionrelative:\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D96BF96-F26C-4E54-966D-EC0BFDB8106C}|\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D96BF96-F26C-4E54-966D-EC0BFDB8106C}|\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.vcxproj|solutionrelative:\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D96BF96-F26C-4E54-966D-EC0BFDB8106C}|\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D96BF96-F26C-4E54-966D-EC0BFDB8106C}|\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.vcxproj|solutionrelative:\u89C2\u5BDF\u8005\u6A21\u5F0F\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D96BF96-F26C-4E54-966D-EC0BFDB8106C}|\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D96BF96-F26C-4E54-966D-EC0BFDB8106C}|\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.vcxproj|solutionrelative:\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Observer.h",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\Observer.h",
+              "RelativeDocumentMoniker": "\u89C2\u5BDF\u8005\u6A21\u5F0F\\Observer.h",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\Observer.h",
+              "RelativeToolTip": "\u89C2\u5BDF\u8005\u6A21\u5F0F\\Observer.h",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T07:52:21.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsAgency.cpp",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.cpp",
+              "RelativeDocumentMoniker": "\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.cpp",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.cpp",
+              "RelativeToolTip": "\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T07:43:20.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u89C2\u5BDF\u8005\u6A21\u5F0F.cpp",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.cpp",
+              "RelativeDocumentMoniker": "\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.cpp",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.cpp",
+              "RelativeToolTip": "\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA4wBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T07:33:21.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsAgency.h",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.h",
+              "RelativeDocumentMoniker": "\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.h",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.h",
+              "RelativeToolTip": "\u89C2\u5BDF\u8005\u6A21\u5F0F\\NewsAgency.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T07:32:48.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
