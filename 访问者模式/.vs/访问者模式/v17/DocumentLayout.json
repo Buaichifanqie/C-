@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9393B-985B-41C5-8AA8-1375EFF8144A}|\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38F9393B-985B-41C5-8AA8-1375EFF8144A}|\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.vcxproj|solutionrelative:\u8BBF\u95EE\u8005\u6A21\u5F0F\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9393B-985B-41C5-8AA8-1375EFF8144A}|\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38F9393B-985B-41C5-8AA8-1375EFF8144A}|\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.vcxproj|solutionrelative:\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9393B-985B-41C5-8AA8-1375EFF8144A}|\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38F9393B-985B-41C5-8AA8-1375EFF8144A}|\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.vcxproj|solutionrelative:\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9393B-985B-41C5-8AA8-1375EFF8144A}|\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.vcxproj|D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38F9393B-985B-41C5-8AA8-1375EFF8144A}|\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.vcxproj|solutionrelative:\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Visitor.cpp",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.cpp",
+              "RelativeDocumentMoniker": "\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.cpp",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.cpp",
+              "RelativeToolTip": "\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T05:53:32.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u8BBF\u95EE\u8005\u6A21\u5F0F.cpp",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.cpp",
+              "RelativeDocumentMoniker": "\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.cpp",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.cpp",
+              "RelativeToolTip": "\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAGkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T04:56:47.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Visitor.h",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.h",
+              "RelativeDocumentMoniker": "\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.h",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.h",
+              "RelativeToolTip": "\u8BBF\u95EE\u8005\u6A21\u5F0F\\Visitor.h",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T04:54:34.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.h",
+              "DocumentMoniker": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\Member.h",
+              "RelativeDocumentMoniker": "\u8BBF\u95EE\u8005\u6A21\u5F0F\\Member.h",
+              "ToolTip": "D:\\C DEMO\\C\u002B\u002B\u8BBE\u8BA1\u6A21\u5F0F\\C-\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\\u8BBF\u95EE\u8005\u6A21\u5F0F\\Member.h",
+              "RelativeToolTip": "\u8BBF\u95EE\u8005\u6A21\u5F0F\\Member.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T04:51:13.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

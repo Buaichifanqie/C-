@@ -1,0 +1,5 @@
+﻿  Member.cpp
+  访问者模式.cpp
+D:\C DEMO\C++设计模式\C-\访问者模式\访问者模式\访问者模式.cpp(96,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  访问者模式.vcxproj -> D:\C DEMO\C++设计模式\C-\访问者模式\x64\Debug\访问者模式.exe
